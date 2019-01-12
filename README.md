@@ -1,4 +1,4 @@
-## Data Structures and Algorithm and
+## Data Structures and Algorithm
 
 1. [List_Based_Collections](https://github.com/agerk/algorithm_dataStructure/blob/master/list_based_collections.ipynb)
 2. [Singly Linked List](https://github.com/agerk/algorithm_dataStructure/blob/master/singly_linked_list.ipynb)
